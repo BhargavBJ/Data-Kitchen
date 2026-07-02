@@ -1,0 +1,21 @@
+CustomerID,Name,Age,City,Salary
+1001,John,25,New York,55000
+1002,Alice,30,Chicago,62000
+1003,Bob,,Seattle,48000
+1004,David,45,New York,72000
+1005,Eve,29,,51000
+1006,Frank,35,Chicago,
+1007,Grace,28,Seattle,59000
+1008,Henry,40,Boston,68000
+1009,Ivy,31,Chicago,61000
+1010,Jack,27,Seattle,54000
+1011,John,25,New York,55000
+1012,Alice,30,Chicago,62000
+1013,Karen,,Boston,57000
+1014,Liam,38,,65000
+1015,Mia,26,Seattle,
+1016,Noah,42,Chicago,71000
+1017,Olivia,33,New York,64000
+1018,Paul,29,Boston,53000
+1019,Quinn,31,Seattle,60000
+1020,Rachel,27,Chicago,56000
