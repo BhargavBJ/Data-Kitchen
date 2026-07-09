@@ -1,5 +1,5 @@
 import pandas as pd
 
-def execute(df: pd.DataFrame, column_name: str) -> pd.DataFrame:
-    cleaned_df = df.dropna(subset=[column_name])
+def execute(df: pd.DataFrame) -> pd.DataFrame:
+    cleaned_df = df.dropna(axis=1, how='all')
     return cleaned_df
